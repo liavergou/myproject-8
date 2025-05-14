@@ -8,6 +8,6 @@ package gr.aueb.cf.helloapp;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!m");
+        System.out.println("Hello World!");
     }
 }
